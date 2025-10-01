@@ -1,6 +1,6 @@
 # <span style="color:#6a0dad">💜 Jamie Howard – Product Specialist | Healthcare SaaS</span>
 
-![Resume Preview](./JamieHowardPreview.png)
+[![Resume Preview](./JamieHowardPreview.png)](./JamieHoward.pdf)
 
 Welcome! This page contains my **professional resume**, highlighting my experience in **healthcare product management, SaaS platform operations, cross-functional team leadership, and interoperability initiatives**.
 
