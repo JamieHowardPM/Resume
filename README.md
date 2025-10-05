@@ -1,14 +1,22 @@
 # <span style="color:#794FAD; font-weight:700;">Jamie Howard</span>  
 ### <span style="color:#5A4279;">Healthcare Product Specialist&nbsp;|&nbsp;SaaS&nbsp;·&nbsp;Interoperability&nbsp;·&nbsp;EHR Integrations</span>
 
-<p align="left">
+Welcome! This page highlights my experience in **healthcare SaaS product management**, **interoperability**, and **cross-functional leadership** — bridging clinical workflows with technology to deliver scalable, user-focused solutions.
+
+---
+
+## <span style="color:#6a0dad">📝 Summary</span>
+Product Specialist with nearly 5 years leading **healthcare SaaS and product management** across cross-functional teams. Skilled in **Agile methodologies, interoperability, platform operations, and data-driven decision making**, with a record of **boosting client satisfaction by 25% and revenue by 10%** through successful product launches and partner integrations. Experienced in **EHR interoperability, Microsoft Teams and Workday integrations, and enterprise training programs**, translating complex technical requirements into **actionable solutions**. Brings a **unique perspective from 20+ years in healthcare interpreting**, bridging clinical workflows with technology to deliver **innovative, scalable, user-focused solutions**.
+
+---
+
+<p align="center">
   <a href="./JamieHoward.pdf">
-    <img src="./JamieHowardPreview.png" alt="Jamie Howard Resume Preview" width="55%">
+    <img src="./JamieHowardPreview.png" alt="Jamie Howard Resume Preview" width="35%">
   </a>
 </p>
 
-Welcome! This page highlights my experience in **healthcare SaaS product management**, **interoperability**, and **cross-functional leadership** — bridging clinical workflows with technology to deliver scalable, user-focused solutions.
-
+[Download PDF Resume](./JamieHoward.pdf)
 ---
 
 ## <span style="color:#6a0dad">🩺 About Me</span>
@@ -49,11 +57,6 @@ Azure DevOps · Jira · Figma · Confluence · SQL (basic) · Epic (EHR) · Work
 
 ## <span style="color:#6a0dad">📄 Download Resume</span>
 [💜 Download PDF Resume](./JamieHoward.pdf)
-
----
-
-## <span style="color:#6a0dad">📬 Contact</span>
-📧 [JamieHowardPM@gmail.com](mailto:JamieHowardPM@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/JamieHowardPM) · 📍 Raleigh-Durham-Chapel Hill, NC
 
 ---
 
