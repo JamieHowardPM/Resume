@@ -76,9 +76,15 @@ It’s about understanding who you serve, what they need, and how technology can
 > — *Laurie Anci, Program Manager, AMN Healthcare*
 
 ---
+---
+
+📬 **<span style="color:#6a0dad">Contact</span>**  
+📧 [JamieHowardPM@gmail.com](mailto:JamieHowardPM@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/JamieHowardPM) · 📍 Raleigh-Durham-Chapel Hill, NC  
+
+---
 
 <p align="center">
-  <a href="./JamieHoward.pdf"><strong>📄 View Full Resume</strong></a> · 
-  <a href="mailto:JamieHowardPM@gmail.com"><strong>✉️ Email Me</strong></a> · 
-  <a href="https://www.linkedin.com/in/JamieHowardPM"><strong>💬 Connect on LinkedIn</strong></a>
+  <a href="./JamieHoward.pdf" style="color:#794FAD;"><strong>📄 View Full Resume</strong></a> · 
+  <a href="mailto:JamieHowardPM@gmail.com" style="color:#794FAD;"><strong>✉️ Email Me</strong></a> · 
+  <a href="https://www.linkedin.com/in/JamieHowardPM" style="color:#794FAD;"><strong>💬 Connect on LinkedIn</strong></a>
 </p>
