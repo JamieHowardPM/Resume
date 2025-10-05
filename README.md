@@ -77,7 +77,7 @@ It’s about understanding who you serve, what they need, and how technology can
 
 ---
 
-<p><strong><span style="color:#6a0dad">Contact</span></strong></p>
+## <span style="color:#6a0dad">Contact</span>
 <p style="font-size:14px; line-height:1.5; margin-top:-6px;">
   📧 <a href="mailto:JamieHowardPM@gmail.com">JamieHowardPM@gmail.com</a> · 
   🔗 <a href="https://www.linkedin.com/in/JamieHowardPM">LinkedIn</a> · 
