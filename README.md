@@ -14,7 +14,7 @@ Black: #000000 | White: #FFFFFF — neutrals
 
 <p align="center">
   <a href="./JamieHoward.pdf">
-    <img src="./JamieHowardPreview.png" alt="Jamie Howard Resume Preview" width="35%">
+    <img src="./JamieHowardPreview.png" alt="Jamie Howard Resume Preview" title="View Jamie's full resume (PDF)" width="35%">
   </a>
 </p>
 
@@ -45,7 +45,7 @@ I lead through clarity and consistency: clear requirements, clear priorities, an
 - Drove the **Zoom integration** for on-demand medical interpreting, simplifying provider access and improving session efficiency  
 - Oversaw delivery of a **self-service credential management** portal that reduced support volume by 40%  
 - Led migration from **Jira to Azure DevOps**, introducing consistent sprint, QA, and release practices  
-- Supported continuous enhancements to AMN’s **Video Remote Interpreting (VRI) platform**, ensuring HIPAA, WCAG, and SOC 2 compliance  
+- Supported continuous enhancements to AMN’s **Video Remote Interpreting (VRI) platform**, ensuring HIPAA, WCAG, and SOC 2 compliance
 
 ---
 
@@ -77,8 +77,13 @@ It’s about understanding who you serve, what they need, and how technology can
 
 ---
 
-📬 **<span style="color:#6a0dad">Contact</span>**  
-📧 [JamieHowardPM@gmail.com](mailto:JamieHowardPM@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/JamieHowardPM) · 📍 Raleigh-Durham-Chapel Hill, NC  
+<p><strong><span style="color:#6a0dad">Contact</span></strong></p>
+<p style="font-size:14px; line-height:1.5; margin-top:-6px;">
+  📧 <a href="mailto:JamieHowardPM@gmail.com">JamieHowardPM@gmail.com</a> · 
+  🔗 <a href="https://www.linkedin.com/in/JamieHowardPM">LinkedIn</a> · 
+  📍 Raleigh-Durham-Chapel Hill, NC
+</p>
+
 ---
 
 <p align="center">
