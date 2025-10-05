@@ -1,7 +1,11 @@
 # <span style="color:#794FAD; font-weight:700;">Jamie Howard</span>  
 ### <span style="color:#5A4279;">Healthcare Product Specialist&nbsp;|&nbsp;SaaS&nbsp;·&nbsp;Interoperability&nbsp;·&nbsp;EHR Integrations</span>
 
-[![Resume Preview](./JamieHowardPreview.png)](./JamieHoward.pdf)
+<p align="left">
+  <a href="./JamieHoward.pdf">
+    <img src="./JamieHowardPreview.png" alt="Jamie Howard Resume Preview" width="55%">
+  </a>
+</p>
 
 Welcome! This page highlights my experience in **healthcare SaaS product management**, **interoperability**, and **cross-functional leadership** — bridging clinical workflows with technology to deliver scalable, user-focused solutions.
 
